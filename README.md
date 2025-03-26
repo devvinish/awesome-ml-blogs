@@ -134,6 +134,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Distill](https://distill.pub/) - Research Publications. No longer updated
 - [Kaggle Blog](https://medium.com/kaggle-blog)
 - [Brighter.ai Blog](https://brighter.ai/resources-types/blog/) - Data anonymization
+- [AI Parabellum's Blog](https://aiparabellum.com/category/blog/) - A blog dedicated to exploring AI tools
 
 
 # Contributing
